@@ -122,7 +122,7 @@ async function  getAllUsers() {
     
     
 }
-// what i wrote i create own promise but  fetch  it self writen the promise so don"t do this
+// what i wrote i create own promise but  fetch  it self  return the promise so don"t do this
 //  new Promise(  function(resolve ,reject){
 //         const response =  fetch('https://jsonplaceholder.typicode.com/users')
 // const data = response.json()
